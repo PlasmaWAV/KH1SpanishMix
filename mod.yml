@@ -12318,42 +12318,6 @@ assets:
   method: copy
   source:
   - name: remastered/al21.ard/SP_al01_ard401.binl
-- name: remastered/he01.ard/SP_he01_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/he01.ard/SP_he01_ard3e8.binl
-- name: remastered/he01.ard/SP_he01_ard3e9.binl
-  method: copy
-  source:
-  - name: remastered/he01.ard/SP_he01_ard3e9.binl
-- name: remastered/he01.ard/SP_he01_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/he01.ard/SP_he01_ard3eb.binl
-- name: remastered/he01.ard/SP_he01_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/he01.ard/SP_he01_ard3f4.binl
-- name: remastered/he06.ard/SP_he06_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3e8.binl
-- name: remastered/he06.ard/SP_he06_ard3e9.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3e9.binl
-- name: remastered/he06.ard/SP_he06_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3ea.binl
-- name: remastered/he06.ard/SP_he06_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3eb.binl
-- name: remastered/he06.ard/SP_he06_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3f4.binl
 - name: remastered/tw12.ard/SP_tw12_ard3e8.binl
   method: copy
   source:
