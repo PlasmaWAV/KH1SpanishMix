@@ -1,6 +1,6 @@
 title: KH1SpanishMix
 originalAuthor: You
-description: Generated on Wed, 21 May 2025 06:57:32 GMT
+description: Generated on Wed, 21 May 2025 17:23:10 GMT
 dependencies: 
 assets:
 - name: remastered/al01.ard/SP_al01_ard3e8.binl
@@ -1043,34 +1043,6 @@ assets:
   method: copy
   source:
   - name: remastered/tw01.ard/SP_tw01_ard3f5.binl
-- name: remastered/tw02.ard/SP_tw02_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3e8.binl
-- name: remastered/tw02.ard/SP_tw02_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3ea.binl
-- name: remastered/tw02.ard/SP_tw02_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3eb.binl
-- name: remastered/tw02.ard/SP_tw02_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3ec.binl
-- name: remastered/tw02.ard/SP_tw02_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3ed.binl
-- name: remastered/tw02.ard/SP_tw02_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3f4.binl
-- name: remastered/tw02.ard/SP_tw02_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3f5.binl
 - name: remastered/tw03.ard/SP_tw03_ard3e8.binl
   method: copy
   source:
@@ -1099,34 +1071,6 @@ assets:
   method: copy
   source:
   - name: remastered/tw03.ard/SP_tw03_ard3f5.binl
-- name: remastered/tw04.ard/SP_tw04_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw04.ard/SP_tw04_ard3e8.binl
-- name: remastered/tw04.ard/SP_tw04_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw04.ard/SP_tw04_ard3ea.binl
-- name: remastered/tw04.ard/SP_tw04_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw04.ard/SP_tw04_ard3eb.binl
-- name: remastered/tw04.ard/SP_tw04_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw04.ard/SP_tw04_ard3ec.binl
-- name: remastered/tw04.ard/SP_tw04_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw04.ard/SP_tw04_ard3ed.binl
-- name: remastered/tw04.ard/SP_tw04_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw04.ard/SP_tw04_ard3f4.binl
-- name: remastered/tw04.ard/SP_tw04_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw04.ard/SP_tw04_ard3f5.binl
 - name: remastered/tw05.ard/SP_tw05_ard3e8.binl
   method: copy
   source:
@@ -1327,34 +1271,6 @@ assets:
   method: copy
   source:
   - name: remastered/tw13.ard/SP_tw13_ard3f5.binl
-- name: remastered/tw18.ard/SP_tw18_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3e8.binl
-- name: remastered/tw18.ard/SP_tw18_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3ea.binl
-- name: remastered/tw18.ard/SP_tw18_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3eb.binl
-- name: remastered/tw18.ard/SP_tw18_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3ec.binl
-- name: remastered/tw18.ard/SP_tw18_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3ed.binl
-- name: remastered/tw18.ard/SP_tw18_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3f4.binl
-- name: remastered/tw18.ard/SP_tw18_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3f5.binl
 - name: remastered/tw19.ard/SP_tw19_ard3e8.binl
   method: copy
   source:
@@ -1383,62 +1299,6 @@ assets:
   method: copy
   source:
   - name: remastered/tw19.ard/SP_tw19_ard3f5.binl
-- name: remastered/tw20.ard/SP_tw20_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw20.ard/SP_tw20_ard3e8.binl
-- name: remastered/tw20.ard/SP_tw20_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw20.ard/SP_tw20_ard3ea.binl
-- name: remastered/tw20.ard/SP_tw20_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw20.ard/SP_tw20_ard3eb.binl
-- name: remastered/tw20.ard/SP_tw20_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw20.ard/SP_tw20_ard3ec.binl
-- name: remastered/tw20.ard/SP_tw20_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw20.ard/SP_tw20_ard3ed.binl
-- name: remastered/tw20.ard/SP_tw20_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw20.ard/SP_tw20_ard3f4.binl
-- name: remastered/tw20.ard/SP_tw20_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw20.ard/SP_tw20_ard3f5.binl
-- name: remastered/tw21.ard/SP_tw21_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw21.ard/SP_tw21_ard3e8.binl
-- name: remastered/tw21.ard/SP_tw21_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw21.ard/SP_tw21_ard3ea.binl
-- name: remastered/tw21.ard/SP_tw21_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw21.ard/SP_tw21_ard3eb.binl
-- name: remastered/tw21.ard/SP_tw21_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw21.ard/SP_tw21_ard3ec.binl
-- name: remastered/tw21.ard/SP_tw21_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw21.ard/SP_tw21_ard3ed.binl
-- name: remastered/tw21.ard/SP_tw21_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw21.ard/SP_tw21_ard3f4.binl
-- name: remastered/tw21.ard/SP_tw21_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw21.ard/SP_tw21_ard3f5.binl
 - name: remastered/tw22.ard/SP_tw22_ard3e8.binl
   method: copy
   source:
@@ -1467,62 +1327,6 @@ assets:
   method: copy
   source:
   - name: remastered/tw22.ard/SP_tw22_ard3f5.binl
-- name: remastered/tw23.ard/SP_tw23_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw23.ard/SP_tw23_ard3e8.binl
-- name: remastered/tw23.ard/SP_tw23_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw23.ard/SP_tw23_ard3ea.binl
-- name: remastered/tw23.ard/SP_tw23_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw23.ard/SP_tw23_ard3eb.binl
-- name: remastered/tw23.ard/SP_tw23_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw23.ard/SP_tw23_ard3ec.binl
-- name: remastered/tw23.ard/SP_tw23_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw23.ard/SP_tw23_ard3ed.binl
-- name: remastered/tw23.ard/SP_tw23_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw23.ard/SP_tw23_ard3f4.binl
-- name: remastered/tw23.ard/SP_tw23_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw23.ard/SP_tw23_ard3f5.binl
-- name: remastered/tw24.ard/SP_tw24_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw24.ard/SP_tw24_ard3e8.binl
-- name: remastered/tw24.ard/SP_tw24_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw24.ard/SP_tw24_ard3ea.binl
-- name: remastered/tw24.ard/SP_tw24_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw24.ard/SP_tw24_ard3eb.binl
-- name: remastered/tw24.ard/SP_tw24_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw24.ard/SP_tw24_ard3ec.binl
-- name: remastered/tw24.ard/SP_tw24_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw24.ard/SP_tw24_ard3ed.binl
-- name: remastered/tw24.ard/SP_tw24_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw24.ard/SP_tw24_ard3f4.binl
-- name: remastered/tw24.ard/SP_tw24_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw24.ard/SP_tw24_ard3f5.binl
 - name: remastered/tw25.ard/SP_tw25_ard3e8.binl
   method: copy
   source:
@@ -1551,34 +1355,6 @@ assets:
   method: copy
   source:
   - name: remastered/tw25.ard/SP_tw25_ard3f5.binl
-- name: remastered/tw26.ard/SP_tw26_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw26.ard/SP_tw26_ard3e8.binl
-- name: remastered/tw26.ard/SP_tw26_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw26.ard/SP_tw26_ard3ea.binl
-- name: remastered/tw26.ard/SP_tw26_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw26.ard/SP_tw26_ard3eb.binl
-- name: remastered/tw26.ard/SP_tw26_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw26.ard/SP_tw26_ard3ec.binl
-- name: remastered/tw26.ard/SP_tw26_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw26.ard/SP_tw26_ard3ed.binl
-- name: remastered/tw26.ard/SP_tw26_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw26.ard/SP_tw26_ard3f4.binl
-- name: remastered/tw26.ard/SP_tw26_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw26.ard/SP_tw26_ard3f5.binl
 - name: remastered/tz.wdt/-f7e0.dds
   method: copy
   source:
