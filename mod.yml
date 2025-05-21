@@ -1,6 +1,6 @@
 title: KH1SpanishMix
 originalAuthor: You
-description: Generated on Sun, 18 May 2025 11:52:15 GMT
+description: Generated on Wed, 21 May 2025 06:57:32 GMT
 dependencies: 
 assets:
 - name: remastered/al01.ard/SP_al01_ard3e8.binl
@@ -31,130 +31,10 @@ assets:
   method: copy
   source:
   - name: remastered/al04.ard/SP_al04_ard3ea.binl
-# - name: remastered/al05.ard/SP_al05_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard0.evdl
-# - name: remastered/al05.ard/SP_al05_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard10.evdl
-# - name: remastered/al05.ard/SP_al05_ard18.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard18.evdl
-# - name: remastered/al05.ard/SP_al05_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard19.evdl
-# - name: remastered/al05.ard/SP_al05_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard3e8.binl
-# - name: remastered/al05.ard/SP_al05_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard3f4.binl
-# - name: remastered/al05.ard/SP_al05_ard3f6.binl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard3f6.binl
-# - name: remastered/al05.ard/SP_al05_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard3f7.binl
-# - name: remastered/al05.ard/SP_al05_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard3f8.binl
-# - name: remastered/al05.ard/SP_al05_ard400.binl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard400.binl
-# - name: remastered/al05.ard/SP_al05_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ard401.binl
-# - name: remastered/al05.ard/SP_al05_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ardc.evdl
-# - name: remastered/al05.ard/SP_al05_arde.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_arde.evdl
-# - name: remastered/al05.ard/SP_al05_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al05.ard/SP_al05_ardf.evdl
-# - name: remastered/al06.ard/SP_al06c.ev
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06c.ev
-# - name: remastered/al06.ard/SP_al06_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard0.evdl
-# - name: remastered/al06.ard/SP_al06_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard10.evdl
-# - name: remastered/al06.ard/SP_al06_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard19.evdl
-# - name: remastered/al06.ard/SP_al06_ard2.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard2.evdl
-# - name: remastered/al06.ard/SP_al06_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard3e8.binl
 - name: remastered/al06.ard/SP_al06_ard3ea.binl
   method: copy
   source:
   - name: remastered/al06.ard/SP_al06_ard3ea.binl
-# - name: remastered/al06.ard/SP_al06_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard3f4.binl
-# - name: remastered/al06.ard/SP_al06_ard3f5.binl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard3f5.binl
-# - name: remastered/al06.ard/SP_al06_ard3f6.binl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard3f6.binl
-# - name: remastered/al06.ard/SP_al06_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard3f7.binl
-# - name: remastered/al06.ard/SP_al06_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard3f8.binl
-# - name: remastered/al06.ard/SP_al06_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ard401.binl
-# - name: remastered/al06.ard/SP_al06_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ardc.evdl
-# - name: remastered/al06.ard/SP_al06_ardd.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ardd.evdl
-# - name: remastered/al06.ard/SP_al06_arde.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_arde.evdl
-# - name: remastered/al06.ard/SP_al06_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al06.ard/SP_al06_ardf.evdl
 - name: remastered/al07.ard/SP_al07_ard0.evdl
   method: copy
   source:
@@ -227,538 +107,74 @@ assets:
   method: copy
   source:
   - name: remastered/al08.ard/SP_al08_ardc.evdl
-- name: remastered/al09.ard/SP_al09_ard0.evdl
+- name: remastered/al17.ard/SP_al17_ard3e8.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ard0.evdl
-- name: remastered/al09.ard/SP_al09_ard10.evdl
+  - name: remastered/al17.ard/SP_al17_ard3e8.binl
+- name: remastered/al17.ard/SP_al17_ard3eb.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ard10.evdl
-- name: remastered/al09.ard/SP_al09_ard19.evdl
+  - name: remastered/al17.ard/SP_al17_ard3eb.binl
+- name: remastered/al17.ard/SP_al17_ard3ec.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ard19.evdl
-- name: remastered/al09.ard/SP_al09_ard3e8.binl
+  - name: remastered/al17.ard/SP_al17_ard3ec.binl
+- name: remastered/al17.ard/SP_al17_ard3ed.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ard3e8.binl
-- name: remastered/al09.ard/SP_al09_ard3f4.binl
+  - name: remastered/al17.ard/SP_al17_ard3ed.binl
+- name: remastered/al17.ard/SP_al17_ard3ee.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ard3f4.binl
-- name: remastered/al09.ard/SP_al09_ard3f7.binl
+  - name: remastered/al17.ard/SP_al17_ard3ee.binl
+- name: remastered/al17.ard/SP_al17_ard3f7.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ard3f7.binl
-- name: remastered/al09.ard/SP_al09_ard3f8.binl
+  - name: remastered/al17.ard/SP_al17_ard3f7.binl
+- name: remastered/al17.ard/SP_al17_ard3f8.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ard3f8.binl
-- name: remastered/al09.ard/SP_al09_ard401.binl
+  - name: remastered/al17.ard/SP_al17_ard3f8.binl
+- name: remastered/al18.ard/SP_al18_ard3e8.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ard401.binl
-- name: remastered/al09.ard/SP_al09_ardc.evdl
+  - name: remastered/al18.ard/SP_al18_ard3e8.binl
+- name: remastered/al19.ard/SP_al19_ard3e8.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ardc.evdl
-- name: remastered/al09.ard/SP_al09_ardf.evdl
+  - name: remastered/al19.ard/SP_al19_ard3e8.binl
+- name: remastered/al19.ard/SP_al19_ard3ea.binl
   method: copy
   source:
-  - name: remastered/al09.ard/SP_al09_ardf.evdl
-# - name: remastered/al10.ard/SP_al10_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ard0.evdl
-# - name: remastered/al10.ard/SP_al10_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ard10.evdl
-# - name: remastered/al10.ard/SP_al10_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ard19.evdl
-# - name: remastered/al10.ard/SP_al10_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ard3e8.binl
-# - name: remastered/al10.ard/SP_al10_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ard3f4.binl
-# - name: remastered/al10.ard/SP_al10_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ard3f7.binl
-# - name: remastered/al10.ard/SP_al10_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ard3f8.binl
-# - name: remastered/al10.ard/SP_al10_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ard401.binl
-# - name: remastered/al10.ard/SP_al10_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ardc.evdl
-# - name: remastered/al10.ard/SP_al10_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al10.ard/SP_al10_ardf.evdl
-# - name: remastered/al11.ard/SP_al11_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ard0.evdl
-# - name: remastered/al11.ard/SP_al11_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ard10.evdl
-# - name: remastered/al11.ard/SP_al11_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ard19.evdl
-# - name: remastered/al11.ard/SP_al11_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ard3e8.binl
-# - name: remastered/al11.ard/SP_al11_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ard3f4.binl
-# - name: remastered/al11.ard/SP_al11_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ard3f7.binl
-# - name: remastered/al11.ard/SP_al11_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ard3f8.binl
-# - name: remastered/al11.ard/SP_al11_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ard401.binl
-# - name: remastered/al11.ard/SP_al11_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ardc.evdl
-# - name: remastered/al11.ard/SP_al11_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al11.ard/SP_al11_ardf.evdl
-# - name: remastered/al12.ard/SP_al12_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard0.evdl
-# - name: remastered/al12.ard/SP_al12_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard10.evdl
-# - name: remastered/al12.ard/SP_al12_ard18.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard18.evdl
-# - name: remastered/al12.ard/SP_al12_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard19.evdl
-# - name: remastered/al12.ard/SP_al12_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard3e8.binl
-# - name: remastered/al12.ard/SP_al12_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard3f4.binl
-# - name: remastered/al12.ard/SP_al12_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard3f7.binl
-# - name: remastered/al12.ard/SP_al12_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard3f8.binl
-# - name: remastered/al12.ard/SP_al12_ard400.binl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard400.binl
-# - name: remastered/al12.ard/SP_al12_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ard401.binl
-# - name: remastered/al12.ard/SP_al12_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ardc.evdl
-# - name: remastered/al12.ard/SP_al12_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al12.ard/SP_al12_ardf.evdl
-# - name: remastered/al13.ard/SP_al13_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ard0.evdl
-# - name: remastered/al13.ard/SP_al13_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ard10.evdl
-# - name: remastered/al13.ard/SP_al13_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ard19.evdl
-# - name: remastered/al13.ard/SP_al13_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ard3e8.binl
-# - name: remastered/al13.ard/SP_al13_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ard3f4.binl
-# - name: remastered/al13.ard/SP_al13_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ard3f7.binl
-# - name: remastered/al13.ard/SP_al13_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ard3f8.binl
-# - name: remastered/al13.ard/SP_al13_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ard401.binl
-# - name: remastered/al13.ard/SP_al13_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ardc.evdl
-# - name: remastered/al13.ard/SP_al13_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al13.ard/SP_al13_ardf.evdl
-# - name: remastered/al14.ard/SP_al14_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ard0.evdl
-# - name: remastered/al14.ard/SP_al14_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ard10.evdl
-# - name: remastered/al14.ard/SP_al14_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ard19.evdl
-# - name: remastered/al14.ard/SP_al14_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ard3e8.binl
-# - name: remastered/al14.ard/SP_al14_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ard3f4.binl
-# - name: remastered/al14.ard/SP_al14_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ard3f7.binl
-# - name: remastered/al14.ard/SP_al14_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ard3f8.binl
-# - name: remastered/al14.ard/SP_al14_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ard401.binl
-# - name: remastered/al14.ard/SP_al14_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ardc.evdl
-# - name: remastered/al14.ard/SP_al14_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al14.ard/SP_al14_ardf.evdl
-# - name: remastered/al15.ard/SP_al15_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ard0.evdl
-# - name: remastered/al15.ard/SP_al15_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ard10.evdl
-# - name: remastered/al15.ard/SP_al15_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ard19.evdl
-# - name: remastered/al15.ard/SP_al15_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ard3e8.binl
-# - name: remastered/al15.ard/SP_al15_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ard3f4.binl
-# - name: remastered/al15.ard/SP_al15_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ard3f7.binl
-# - name: remastered/al15.ard/SP_al15_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ard3f8.binl
-# - name: remastered/al15.ard/SP_al15_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ard401.binl
-# - name: remastered/al15.ard/SP_al15_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ardc.evdl
-# - name: remastered/al15.ard/SP_al15_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al15.ard/SP_al15_ardf.evdl
-# - name: remastered/al16.ard/SP_al16_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ard0.evdl
-# - name: remastered/al16.ard/SP_al16_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ard10.evdl
-# - name: remastered/al16.ard/SP_al16_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ard19.evdl
-# - name: remastered/al16.ard/SP_al16_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ard3e8.binl
-# - name: remastered/al16.ard/SP_al16_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ard3f4.binl
-# - name: remastered/al16.ard/SP_al16_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ard3f7.binl
-# - name: remastered/al16.ard/SP_al16_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ard3f8.binl
-# - name: remastered/al16.ard/SP_al16_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ard401.binl
-# - name: remastered/al16.ard/SP_al16_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ardc.evdl
-# - name: remastered/al16.ard/SP_al16_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al16.ard/SP_al16_ardf.evdl
-# - name: remastered/al17.ard/SP_al17f.ev
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17f.ev
-# - name: remastered/al17.ard/SP_al17_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard0.evdl
-# - name: remastered/al17.ard/SP_al17_ard10.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard10.evdl
-# - name: remastered/al17.ard/SP_al17_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard19.evdl
-# - name: remastered/al17.ard/SP_al17_ard3.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3.evdl
-# - name: remastered/al17.ard/SP_al17_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3e8.binl
-# - name: remastered/al17.ard/SP_al17_ard3eb.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3eb.binl
-# - name: remastered/al17.ard/SP_al17_ard3ec.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3ec.binl
-# - name: remastered/al17.ard/SP_al17_ard3ed.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3ed.binl
-# - name: remastered/al17.ard/SP_al17_ard3ee.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3ee.binl
-# - name: remastered/al17.ard/SP_al17_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3f4.binl
-# - name: remastered/al17.ard/SP_al17_ard3f7.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3f7.binl
-# - name: remastered/al17.ard/SP_al17_ard3f8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard3f8.binl
-# - name: remastered/al17.ard/SP_al17_ard4.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard4.evdl
-# - name: remastered/al17.ard/SP_al17_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard401.binl
-# - name: remastered/al17.ard/SP_al17_ard5.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard5.evdl
-# - name: remastered/al17.ard/SP_al17_ard6.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ard6.evdl
-# - name: remastered/al17.ard/SP_al17_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ardc.evdl
-# - name: remastered/al17.ard/SP_al17_ardf.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al17.ard/SP_al17_ardf.evdl
-# - name: remastered/al18.ard/SP_al18_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al18.ard/SP_al18_ard0.evdl
-# - name: remastered/al18.ard/SP_al18_ard16.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al18.ard/SP_al18_ard16.evdl
-# - name: remastered/al18.ard/SP_al18_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al18.ard/SP_al18_ard19.evdl
-# - name: remastered/al18.ard/SP_al18_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al18.ard/SP_al18_ard3e8.binl
-# - name: remastered/al18.ard/SP_al18_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al18.ard/SP_al18_ard3f4.binl
-# - name: remastered/al18.ard/SP_al18_ard3fe.binl
-#   method: copy
-#   source:
-#   - name: remastered/al18.ard/SP_al18_ard3fe.binl
-# - name: remastered/al18.ard/SP_al18_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al18.ard/SP_al18_ard401.binl
-# - name: remastered/al18.ard/SP_al18_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al18.ard/SP_al18_ardc.evdl
-# - name: remastered/al19.ard/SP_al19_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard0.evdl
-# - name: remastered/al19.ard/SP_al19_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard19.evdl
-# - name: remastered/al19.ard/SP_al19_ard2.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard2.evdl
-# - name: remastered/al19.ard/SP_al19_ard3.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard3.evdl
-# - name: remastered/al19.ard/SP_al19_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard3e8.binl
-# - name: remastered/al19.ard/SP_al19_ard3ea.binl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard3ea.binl
-# - name: remastered/al19.ard/SP_al19_ard3eb.binl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard3eb.binl
-# - name: remastered/al19.ard/SP_al19_ard3ec.binl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard3ec.binl
-# - name: remastered/al19.ard/SP_al19_ard3ed.binl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard3ed.binl
-# - name: remastered/al19.ard/SP_al19_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard3f4.binl
-# - name: remastered/al19.ard/SP_al19_ard4.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard4.evdl
-# - name: remastered/al19.ard/SP_al19_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard401.binl
-# - name: remastered/al19.ard/SP_al19_ard5.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard5.evdl
-# - name: remastered/al19.ard/SP_al19_ard6.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ard6.evdl
-# - name: remastered/al19.ard/SP_al19_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al19.ard/SP_al19_ardc.evdl
-# - name: remastered/al20.ard/SP_al20_ard0.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al20.ard/SP_al20_ard0.evdl
-# - name: remastered/al20.ard/SP_al20_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al20.ard/SP_al20_ard19.evdl
-# - name: remastered/al20.ard/SP_al20_ard3e8.binl
-#   method: copy
-#   source:
-#   - name: remastered/al20.ard/SP_al20_ard3e8.binl
-# - name: remastered/al20.ard/SP_al20_ard3f4.binl
-#   method: copy
-#   source:
-#   - name: remastered/al20.ard/SP_al20_ard3f4.binl
-# - name: remastered/al20.ard/SP_al20_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al20.ard/SP_al20_ard401.binl
-# - name: remastered/al20.ard/SP_al20_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al20.ard/SP_al20_ardc.evdl
-# - name: remastered/al21.ard/SP_al21_ard19.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al21.ard/SP_al21_ard19.evdl
-# - name: remastered/al21.ard/SP_al21_ard401.binl
-#   method: copy
-#   source:
-#   - name: remastered/al21.ard/SP_al21_ard401.binl
-# - name: remastered/al21.ard/SP_al21_ardc.evdl
-#   method: copy
-#   source:
-#   - name: remastered/al21.ard/SP_al21_ardc.evdl
+  - name: remastered/al19.ard/SP_al19_ard3ea.binl
+- name: remastered/al19.ard/SP_al19_ard3eb.binl
+  method: copy
+  source:
+  - name: remastered/al19.ard/SP_al19_ard3eb.binl
+- name: remastered/al19.ard/SP_al19_ard3ec.binl
+  method: copy
+  source:
+  - name: remastered/al19.ard/SP_al19_ard3ec.binl
+- name: remastered/al19.ard/SP_al19_ard3ed.binl
+  method: copy
+  source:
+  - name: remastered/al19.ard/SP_al19_ard3ed.binl
+- name: remastered/al20.ard/SP_al20_ard3e8.binl
+  method: copy
+  source:
+  - name: remastered/al20.ard/SP_al20_ard3e8.binl
+- name: remastered/al21.ard/SP_al21_ard19.evdl
+  method: copy
+  source:
+  - name: remastered/al21.ard/SP_al21_ard19.evdl
+- name: remastered/al21.ard/SP_al21_ard401.binl
+  method: copy
+  source:
+  - name: remastered/al21.ard/SP_al21_ard401.binl
+- name: remastered/al21.ard/SP_al21_ardc.evdl
+  method: copy
+  source:
+  - name: remastered/al21.ard/SP_al21_ardc.evdl
 - name: remastered/aw.wdt/-136c0.dds
   method: copy
   source:
