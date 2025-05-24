@@ -1,6 +1,6 @@
 title: KH1SpanishMix
 originalAuthor: You
-description: Generated on Wed, 21 May 2025 17:23:10 GMT
+description: Generated on Sat, 24 May 2025 15:42:48 GMT
 dependencies: 
 assets:
 - name: remastered/al01.ard/SP_al01_ard3e8.binl
@@ -3331,6 +3331,86 @@ assets:
   method: copy
   source:
   - name: remastered/xa_nm_1040.mdls/so00ex01.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00at00.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00da00.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00da01.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00da02.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00da03.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00da04.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex00.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex01.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex02.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex03.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex04.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex05.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex06.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex07.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex08.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex09.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex10.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex11.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex12.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_3000.mdls/bo00ex13.win32.scd
 - name: remastered/xa_pi_1000.mdls/pc00ex00.win32.scd
   method: copy
   source:
