@@ -1,6 +1,6 @@
 title: KH1SpanishMix
 originalAuthor: You
-description: Generated on Sat, 24 May 2025 15:42:48 GMT
+description: Generated on Sat, 24 May 2025 19:37:43 GMT
 dependencies: 
 assets:
 - name: remastered/al01.ard/SP_al01_ard3e8.binl
@@ -3331,6 +3331,34 @@ assets:
   method: copy
   source:
   - name: remastered/xa_nm_1040.mdls/so00ex01.win32.scd
+- name: remastered/xa_nm_1050.mdls/ba00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1050.mdls/ba00at00.win32.scd
+- name: remastered/xa_nm_1050.mdls/ba00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1050.mdls/ba00at01.win32.scd
+- name: remastered/xa_nm_1050.mdls/ba00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1050.mdls/ba00da00.win32.scd
+- name: remastered/xa_nm_1050.mdls/ba00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1050.mdls/ba00da01.win32.scd
+- name: remastered/xa_nm_1050.mdls/ba00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1050.mdls/ba00da02.win32.scd
+- name: remastered/xa_nm_1050.mdls/ba00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1050.mdls/ba00ex00.win32.scd
+- name: remastered/xa_nm_1050.mdls/ba00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1050.mdls/ba00ex01.win32.scd
 - name: remastered/xa_nm_3000.mdls/bo00at00.win32.scd
   method: copy
   source:
