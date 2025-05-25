@@ -1,6 +1,6 @@
 title: KH1SpanishMix
 originalAuthor: You
-description: Generated on Sat, 24 May 2025 19:37:43 GMT
+description: Generated on Sun, 25 May 2025 23:25:46 GMT
 dependencies: 
 assets:
 - name: remastered/al01.ard/SP_al01_ard3e8.binl
@@ -2583,6 +2583,62 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_1040.mdls/ry00da07.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00at00.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00at01.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00da00.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00da01.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00da0b.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00da0b.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00da1b.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00da1b.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00ma00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00ma00.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00ma01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00ma01.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00ma02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00ma02.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00ma03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00ma03.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00ma04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00ma04.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00ma05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00ma05.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00ma06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00ma06.win32.scd
+- name: remastered/xa_ex_1090.mdls/ma00ma07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1090.mdls/ma00ma07.win32.scd
 - name: remastered/xa_ex_1150.mdls/ku00at00.win32.scd
   method: copy
   source:
