@@ -118,7 +118,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 - **Hercules:** [Adri](https://x.com/adriiiits)
 - **Ariel:** [Thais Serrano](https://www.instagram.com/thaisdoblajes/)
-- **Alicia, Barrel:** [Cati Ramis](https://www.instagram.com/artby.cati)
+- **Alicia:** [Cati Ramis](https://www.instagram.com/artby.cati)
 - **Pinocho, Lock:** [Evama](https://www.youtube.com/@Evama2.0)
 - **Mushu:** [Eloi Ortega](https://www.instagram.com/lexioltg/)
 - **Wendy, Jasmin:** [Udi Angulo](https://www.instagram.com/cl4.udi.4?igsh=MWxtdzdhZDN0cGc5ag==)
@@ -133,6 +133,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
 - **Triton:** [Adri Rodríguez (adridibus)](https://www.instagram.com/adridibus_dub/)
 - **Tiger:** [Asancu](https://www.youtube.com/@Asancu)
+- **Barrel:** [Fran Mafé](https://x.com/SilveOfisialVA)
 
 ### 🎶 Música
 
