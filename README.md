@@ -134,6 +134,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Triton:** [Adri Rodríguez (adridibus)](https://www.instagram.com/adridibus_dub/)
 - **Tiger:** [Asancu](https://www.youtube.com/@Asancu)
 - **Barrel:** [Fran Mafé](https://x.com/SilveOfisialVA)
+- **Bestia:** [Luisma McFly](https://www.instagram.com/luismamcfly/?hl=es)
 
 ### 🎶 Música
 
