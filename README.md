@@ -135,6 +135,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Tiger:** [Asancu](https://www.youtube.com/@Asancu)
 - **Barrel:** [Fran Mafé](https://x.com/SilveOfisialVA)
 - **Bestia:** [Luisma McFly](https://www.instagram.com/luismamcfly/?hl=es)
+- **Pooh:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
 
 ### 🎶 Música
 
@@ -142,7 +143,9 @@ Si encuentras algún error, ¡no dudes en comentármelo!
   
 - **Simple and Clean (Cover en Castellano):** [Marta Delgado Larios](https://www.youtube.com/@martadubs)
 - **Letra:** Charm (si alguien conoce sus redes sociales, que me lo diga, por favor)
+- **Instrumental:** Separada de la pista original con [Moises AI](https://moises.ai/es/)
 - **Mezcla y Mastering:** [OCOA](https://www.instagram.com/ocoa.music/)
+- 
 
 ### Vídeos RRSS
 
@@ -154,8 +157,6 @@ No tenemos ninguna afiliación con la marca Kingdom Hearts. Todos los derechos r
 
 🛑 Asimismo, **queda terminantemente prohibido**:
 
--🗣️**Subir a redes sociales vídeos dedicados a la comparación con otros actores/actrices que interpretan a X personaje, sea cual sea el idioma.**
-
--🤖**El entrenamiento de IA, o cualquier softaware de síntesis de voz, independientemente de su uso posterior.**
+-🤖**Extraer los clips de voz para entrenamiento de IA o cualquier otro software de síntesis de voz, ya sea para uso personal o comercial.**
 
 ¡Gracias por su comprensión!
