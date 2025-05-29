@@ -1,6 +1,6 @@
 title: KH1SpanishMix
 originalAuthor: You
-description: Generated on Sun, 25 May 2025 23:25:46 GMT
+description: Generated on Thu, 29 May 2025 14:34:24 GMT
 dependencies: 
 assets:
 - name: remastered/al01.ard/SP_al01_ard3e8.binl
@@ -35,54 +35,6 @@ assets:
   method: copy
   source:
   - name: remastered/al06.ard/SP_al06_ard3ea.binl
-- name: remastered/al07.ard/SP_al07_ard0.evdl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard0.evdl
-- name: remastered/al07.ard/SP_al07_ard10.evdl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard10.evdl
-- name: remastered/al07.ard/SP_al07_ard19.evdl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard19.evdl
-- name: remastered/al07.ard/SP_al07_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard3e8.binl
-- name: remastered/al07.ard/SP_al07_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard3f4.binl
-- name: remastered/al07.ard/SP_al07_ard3f6.binl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard3f6.binl
-- name: remastered/al07.ard/SP_al07_ard3f7.binl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard3f7.binl
-- name: remastered/al07.ard/SP_al07_ard3f8.binl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard3f8.binl
-- name: remastered/al07.ard/SP_al07_ard401.binl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ard401.binl
-- name: remastered/al07.ard/SP_al07_ardc.evdl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ardc.evdl
-- name: remastered/al07.ard/SP_al07_arde.evdl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_arde.evdl
-- name: remastered/al07.ard/SP_al07_ardf.evdl
-  method: copy
-  source:
-  - name: remastered/al07.ard/SP_al07_ardf.evdl
 - name: remastered/al08.ard/SP_al08_ard0.evdl
   method: copy
   source:
@@ -163,18 +115,6 @@ assets:
   method: copy
   source:
   - name: remastered/al20.ard/SP_al20_ard3e8.binl
-- name: remastered/al21.ard/SP_al21_ard19.evdl
-  method: copy
-  source:
-  - name: remastered/al21.ard/SP_al21_ard19.evdl
-- name: remastered/al21.ard/SP_al21_ard401.binl
-  method: copy
-  source:
-  - name: remastered/al21.ard/SP_al21_ard401.binl
-- name: remastered/al21.ard/SP_al21_ardc.evdl
-  method: copy
-  source:
-  - name: remastered/al21.ard/SP_al21_ardc.evdl
 - name: remastered/aw.wdt/-136c0.dds
   method: copy
   source:
@@ -875,6 +815,70 @@ assets:
   method: copy
   source:
   - name: remastered/pi.wdt/-ea30.dds
+- name: remastered/pi01.ard/SP_pi01_ard0.evdl
+  method: copy
+  source:
+  - name: remastered/pi01.ard/SP_pi01_ard0.evdl
+- name: remastered/pi01.ard/SP_pi01_ard19.evdl
+  method: copy
+  source:
+  - name: remastered/pi01.ard/SP_pi01_ard19.evdl
+- name: remastered/pi01.ard/SP_pi01_ard3e8.binl
+  method: copy
+  source:
+  - name: remastered/pi01.ard/SP_pi01_ard3e8.binl
+- name: remastered/pi01.ard/SP_pi01_ard3f4.binl
+  method: copy
+  source:
+  - name: remastered/pi01.ard/SP_pi01_ard3f4.binl
+- name: remastered/pi01.ard/SP_pi01_ard401.binl
+  method: copy
+  source:
+  - name: remastered/pi01.ard/SP_pi01_ard401.binl
+- name: remastered/pi01.ard/SP_pi01_ardc.evdl
+  method: copy
+  source:
+  - name: remastered/pi01.ard/SP_pi01_ardc.evdl
+- name: remastered/pi02.ard/SP_pi02_ard0.evdl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard0.evdl
+- name: remastered/pi02.ard/SP_pi02_ard10.evdl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard10.evdl
+- name: remastered/pi02.ard/SP_pi02_ard19.evdl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard19.evdl
+- name: remastered/pi02.ard/SP_pi02_ard2.evdl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard2.evdl
+- name: remastered/pi02.ard/SP_pi02_ard3e8.binl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard3e8.binl
+- name: remastered/pi02.ard/SP_pi02_ard3ea.binl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard3ea.binl
+- name: remastered/pi02.ard/SP_pi02_ard3f4.binl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard3f4.binl
+- name: remastered/pi02.ard/SP_pi02_ard3f8.binl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard3f8.binl
+- name: remastered/pi02.ard/SP_pi02_ard401.binl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ard401.binl
+- name: remastered/pi02.ard/SP_pi02_ardc.evdl
+  method: copy
+  source:
+  - name: remastered/pi02.ard/SP_pi02_ardc.evdl
 - name: remastered/po.wdt/-54f0.dds
   method: copy
   source:
