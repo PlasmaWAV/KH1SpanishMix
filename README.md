@@ -19,20 +19,20 @@
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Texturas.
-- 🕒 76% Batallas.
+- 🕒 86% Batallas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
 - 🕒 99% Ciudad de Paso.
 - ✔️ 100% País de las Maravillas.
-- 🕒 95% Coliseo.
+- ✔️ 100% Coliseo.
 - ✔️ 100% Selva Profunda.
-- 🕒 50% Bosque de los 100 Acres.
+- ✔️ 100% Bosque de los 100 Acres.
 - ✔️ 100% Agrabah.
-- 🕒 99% Monstruo.
-- 🕒 81% Ciudad de Halloween.
+- ✔️ 100% Monstruo.
+- ✔️ 100% Ciudad de Halloween.
 - ✔️ 100% Atlántica.
-- 🕒 67% País de Nunca Jamás.
-- 🕒 45% Bastión Hueco.
+- ✔️ 100% País de Nunca Jamás.
+- 🕒 68% Bastión Hueco.
 - 🕒 56% Fin del Mundo.
 
 **📜 Subtitulos adaptados al doblaje: 🕒45%**
@@ -77,14 +77,14 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ### 🎬​ Dirección | Programación | Edición
 
-- **Dirección, Edición y Programación:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
+- **Dirección, Edición y Programación:** Anónimo.
 - **Ayudante de Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
 
 ### 🎨 Arte
 - **Edición de Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
 
 ### Mantenimiento de Redes sociales
--Twitter: [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
+-Twitter: Anónimo.
 
 -Instagram y Youtube: [AilnnaDubs](https://www.youtube.com/channel/UCG2tmnI68M-pd2cd8zrwt3Q)
 
@@ -135,7 +135,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Tiger:** [Asancu](https://www.youtube.com/@Asancu)
 - **Barrel:** [Fran Mafé](https://x.com/SilveOfisialVA)
 - **Bestia:** [Luisma McFly](https://www.instagram.com/luismamcfly/?hl=es)
-- **Pooh:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
+- **Pooh:** Anónimo.
 
 ### 🎶 Música
 
