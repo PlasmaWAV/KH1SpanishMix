@@ -815,14 +815,6 @@ assets:
   method: copy
   source:
   - name: remastered/pi.wdt/-ea30.dds
-- name: remastered/pi01.ard/SP_pi01_ard0.evdl
-  method: copy
-  source:
-  - name: remastered/pi01.ard/SP_pi01_ard0.evdl
-- name: remastered/pi01.ard/SP_pi01_ard19.evdl
-  method: copy
-  source:
-  - name: remastered/pi01.ard/SP_pi01_ard19.evdl
 - name: remastered/pi01.ard/SP_pi01_ard3e8.binl
   method: copy
   source:
@@ -831,30 +823,6 @@ assets:
   method: copy
   source:
   - name: remastered/pi01.ard/SP_pi01_ard3f4.binl
-- name: remastered/pi01.ard/SP_pi01_ard401.binl
-  method: copy
-  source:
-  - name: remastered/pi01.ard/SP_pi01_ard401.binl
-- name: remastered/pi01.ard/SP_pi01_ardc.evdl
-  method: copy
-  source:
-  - name: remastered/pi01.ard/SP_pi01_ardc.evdl
-- name: remastered/pi02.ard/SP_pi02_ard0.evdl
-  method: copy
-  source:
-  - name: remastered/pi02.ard/SP_pi02_ard0.evdl
-- name: remastered/pi02.ard/SP_pi02_ard10.evdl
-  method: copy
-  source:
-  - name: remastered/pi02.ard/SP_pi02_ard10.evdl
-- name: remastered/pi02.ard/SP_pi02_ard19.evdl
-  method: copy
-  source:
-  - name: remastered/pi02.ard/SP_pi02_ard19.evdl
-- name: remastered/pi02.ard/SP_pi02_ard2.evdl
-  method: copy
-  source:
-  - name: remastered/pi02.ard/SP_pi02_ard2.evdl
 - name: remastered/pi02.ard/SP_pi02_ard3e8.binl
   method: copy
   source:
@@ -867,18 +835,6 @@ assets:
   method: copy
   source:
   - name: remastered/pi02.ard/SP_pi02_ard3f4.binl
-- name: remastered/pi02.ard/SP_pi02_ard3f8.binl
-  method: copy
-  source:
-  - name: remastered/pi02.ard/SP_pi02_ard3f8.binl
-- name: remastered/pi02.ard/SP_pi02_ard401.binl
-  method: copy
-  source:
-  - name: remastered/pi02.ard/SP_pi02_ard401.binl
-- name: remastered/pi02.ard/SP_pi02_ardc.evdl
-  method: copy
-  source:
-  - name: remastered/pi02.ard/SP_pi02_ardc.evdl
 - name: remastered/po.wdt/-54f0.dds
   method: copy
   source:
